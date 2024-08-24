@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shoaib Ahmad Siddiqui</h1>
-- 👨‍💻 All of my projects are available at [shoaibahmad.me](shoaibahmad.me)
+<h2 align="center">Hi, I'm Shoaib Ahmad Siddiqui</h2>
+- 👨‍💻 Checkout my portfolio at <a href="https://shoaibahmad.me">shoaibahmad.me</a>
 
 - 💬 Ask me about **Python, Django, FastAPI, Flask**
 
