@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Shoaib Ahmad Siddiqui</h2>
+<h2>Hi, I'm Shoaib Ahmad Siddiqui</h2>
 - 👨‍💻 Checkout my portfolio at <a href="https://shoaibahmad.me">shoaibahmad.me</a>
 
 - 💬 Ask me about **Python, Django, FastAPI, Flask**
