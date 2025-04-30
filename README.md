@@ -15,7 +15,7 @@
 <!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 <!-- Flask -->
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="flask" width="40" height="40"/> </a> 
 <!-- Django -->
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
 <!-- Java -->
